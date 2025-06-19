@@ -26,7 +26,7 @@ Proyecto de aplicación móvil para la gestión de cursos, estudiantes y sus ins
 
 ### 📥 Clonar repositorio
 
-git clone https://github.com/tuusuario/tu-repo.git
+git clone https://ladireccion de este repositorio.git
 cd SistemaCursosEstudiantiles_Version_FINAL
 ### 🚀 Backend
 
